@@ -22,5 +22,5 @@ Check status : docker ps (lists all containers)
 Open localhost:8080 in a browser        
 user:airflow, pass:airflow   
 
-<img src="https://user-images.githubusercontent.com/84242964/167158301-64c559ac-e350-43b6-9979-713712dbeb63.png" width="800" height="200">
+<img src="https://user-images.githubusercontent.com/84242964/188059259-e7dce3b5-54cb-4357-a520-1d25990108ee.png" width="800" height="500">
 
